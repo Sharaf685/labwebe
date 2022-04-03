@@ -1,16 +1,3 @@
-# CRUD-Operation with details page
-## Sreenshoot:
-![crud-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Mokhles.jpg)
-
-
-
-# Details Code: 
-
-#### details.php
-
-
-````
-
 <?php
 include "config.php";
 
@@ -58,5 +45,3 @@ while($row=mysqli_fetch_array($result)){
 	<a href="user_list.php" class="btn btn-info" role="button" style="float:right;">Home Page</a>
 </body>
 </html>
-
-````
