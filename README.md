@@ -1,6 +1,6 @@
 # CRUD-Operation with details page
 ## Sreenshoot:
-![crud-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Mokhles.jpg)
+![crud-Op](https://github.com/Sharaf685/labwebe/blob/main/output/Screenshot%20(177).png)
 
 
 
